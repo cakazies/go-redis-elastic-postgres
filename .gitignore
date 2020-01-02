@@ -1,0 +1,7 @@
+
+.env
+.exe
+
+./vendor
+./configs/config.toml
+./utils/logs/*.log

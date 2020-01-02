@@ -1,0 +1,5 @@
+2019/12/23 21:15:34 (room/GetRoom) Error Redis : %!s(<nil>)
+2019/12/23 21:15:34 (room/GetRoom) DB Error : %!s(<nil>)
+2019/12/23 21:16:02 (room/GetRoom) Error Redis : %!s(<nil>)
+2019/12/23 21:16:03 (room/GetRoom) Set Redis : %!s(<nil>)
+2019/12/23 23:30:05 (room/GetRoom) Unmarshal checkredis : %!s(<nil>)
